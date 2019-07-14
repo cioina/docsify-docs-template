@@ -1,0 +1,28 @@
+{
+    "name": "docsify-docs-template-openshift",
+    "version": "0.0.1",
+    "description": "A magical documentation site generator",
+    "main": "server.js",
+    "dependencies": {
+        "ejs": "^2.4.1",
+        "express": "^4.13.4",
+        "object-assign": "4.1.1"
+    },
+    "engine": {
+        "node": "*",
+        "npm": "*"
+    },
+    "scripts": {
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tngan/samlify"
+    },
+    "author": "Tony Ngan",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/tngan/samlify/issues"
+    },
+    "homepage": "https://samlify.js.org"
+}
